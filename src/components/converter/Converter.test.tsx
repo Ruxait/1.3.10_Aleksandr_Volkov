@@ -1,4 +1,3 @@
-// src/components/converter/Converter.test.tsx
 import { screen, fireEvent } from "@testing-library/react";
 import { renderWithRedux } from "../../test/utils.tsx";
 import { expect, it, describe } from "vitest";
